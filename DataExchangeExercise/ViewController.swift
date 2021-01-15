@@ -12,7 +12,7 @@ import PythonKit
 
 class ViewController: NSViewController {
     
-    let dirPath = "" //FIXME : Add project directory path e.g.: /Users/melissaappel/Admin/EmployeeIDCards/EmployeeIDCards/
+    let dirPath = "" //FIXME : Add project directory path e.g.: /Users/Admin/EmployeeIDCards/EmployeeIDCards/
     let jsonFileName = "UserData"
     var swiftUserData : Data?
     var users : [Users]?
